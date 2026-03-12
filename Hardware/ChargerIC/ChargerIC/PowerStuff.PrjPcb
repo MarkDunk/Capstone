@@ -67,7 +67,7 @@ GenerateClassCluster=0
 DocumentUniqueId=ULVGSXVE
 
 [Document2]
-DocumentPath=..\ChargerIC.SchDoc
+DocumentPath=ChargerIC.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
